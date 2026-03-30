@@ -1,0 +1,2 @@
+# ShampehScrapeBot
+Scrapes Media Sites
